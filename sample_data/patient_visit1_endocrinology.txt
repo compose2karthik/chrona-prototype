@@ -1,0 +1,37 @@
+SYNTHETIC DEMO DATA — FICTIONAL PATIENT, NOT A REAL PERSON
+
+Endocrinology Clinic — Consultation Note
+Patient: "Patient A" (fictional, demo ID DEMO-0001), Female, 58 years
+Visit Date: 2026-05-19
+Specialty: Endocrinology
+Physician: Dr. R. Sharma (fictional)
+
+Chief Complaint: Routine follow-up for Type 2 Diabetes Mellitus.
+
+History: Patient has a 9-year history of Type 2 Diabetes Mellitus. She
+reports generally stable home glucose readings, with occasional fasting
+values in the 150-160 mg/dL range. No episodes of hypoglycemia reported.
+She continues to follow a modified diet and walks 20 minutes most days.
+
+Examination: Weight stable at 71 kg. Blood pressure 138/84 mmHg. No acute
+distress. Feet examined, no ulcers or sensory loss noted on monofilament
+testing.
+
+Labs Reviewed: HbA1c 7.8% (prior reading 6 months ago was 7.6%), indicating
+glycemic control has drifted slightly upward but remains within an
+acceptable range for her age and comorbidity profile.
+
+Current Medications:
+- Metformin 1000 mg twice daily (existing, unchanged)
+- Atorvastatin 20 mg once daily (existing, unchanged)
+
+Assessment: Type 2 Diabetes Mellitus, glycemic control adequate but
+trending upward. Continue current regimen and reinforce dietary counseling.
+
+Plan: Recheck HbA1c in 3 months. Continue metformin at current dose.
+Advised to maintain physical activity and follow up with primary care for
+routine blood pressure monitoring. Referral to nephrology recommended
+given family history of kidney disease, to establish a baseline given her
+diabetes duration.
+
+--- End of note ---

@@ -1,0 +1,42 @@
+SYNTHETIC DEMO DATA — FICTIONAL PATIENT, NOT A REAL PERSON
+
+Nephrology Clinic — Consultation Note
+Patient: "Patient A" (fictional, demo ID DEMO-0001), Female, 58 years
+Visit Date: 2026-08-18
+Specialty: Nephrology
+Physician: Dr. M. Iyer (fictional)
+
+Chief Complaint: Referred by endocrinology for evaluation of chronic
+kidney disease in the context of long-standing Type 2 Diabetes Mellitus.
+
+History: Patient reports new mild swelling around both ankles over the
+past two to three weeks, more noticeable by evening. No shortness of
+breath, no chest pain, no changes in urine output reported. She confirms
+she is still taking metformin 1000 mg twice daily as prescribed by
+endocrinology, with no missed doses.
+
+Examination: Mild bilateral pitting edema noted at the ankles (1+). Blood
+pressure 142/88 mmHg. No signs of acute fluid overload. Lungs clear.
+
+Labs Reviewed: Estimated glomerular filtration rate (eGFR) is now 42
+mL/min/1.73m2, down from a baseline of 58 mL/min/1.73m2 recorded eight
+months ago. This represents a meaningful decline and is consistent with
+Stage 3 Chronic Kidney Disease. Urine albumin-to-creatinine ratio is
+moderately elevated compared to the prior reading on file.
+
+Current Medications (per patient report and prior records):
+- Metformin 1000 mg twice daily (existing, confirmed continued)
+- Atorvastatin 20 mg once daily (existing, confirmed continued)
+
+Assessment: Stage 3 Chronic Kidney Disease, likely diabetic nephropathy,
+with interval decline in eGFR since baseline and new mild peripheral
+edema. Diabetes appears to be a major contributing factor.
+
+Plan: Repeat renal function panel in 4-6 weeks to confirm trend. Advised
+low-sodium diet. Will coordinate with endocrinology regarding metformin
+dosing given reduced renal function. Patient mentioned she has an upcoming
+cardiology visit today for blood pressure management; recommended renal
+function and potassium be monitored if any new medication is started
+there.
+
+--- End of note ---
